@@ -1,15 +1,3 @@
-Telegram
-
-Telegram Bot (currency notifier)
-
-Bot description:
-At the request of the user (currency pair of interest), 
-the bot displays a message with the current exchange rate.
-A  functionality has been implemented that allows you to:
-1) subscribe to the currency pair of interest in order to receive a message
-with the current exchange rate on a regular basis
-2) unsubscribe from any currency pair.
-
 
 Telegram Bot "Happy Hour"
 
